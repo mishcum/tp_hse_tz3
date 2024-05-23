@@ -28,16 +28,16 @@
 В рамках данного задания реализован проект приложения по доставке еды, в диаграммах описаны основные варианты использования и взаимдействия. Диаграммы построены с помощью Plant UML
 
 ### 1. Диаграмма вариантов использования.
-![](/pictures/first_diagram.png)
+![](../pictures/first_diagram.png)
 
 ### 2. Диаграмма последовательности для процесса заказа еды через приложение.
-![](/pictures/second_diagram.png)
+![](../pictures/second_diagram.png)
 
 ### 3. Диаграмма состояний для заказа.
-![](/pictures/third_diagram.png)
+![](../pictures/third_diagram.png)
 
 ### 4. Диаграмма деятельности для описания процесса обработки заказа системой.
-![](/pictures/fourth_diagram.png)
+![](../pictures/fourth_diagram.png)
 
 ### 5. Диаграмма классов для системы.
-![](/pictures/fivth_diagram.png)
+![](../pictures/fivth_diagram.png)
